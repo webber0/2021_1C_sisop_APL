@@ -1,0 +1,4 @@
+==Casos de Pruebas==
+2019: Ejemplo del ejercicio
+2020: Todos los meses se facturo
+2021: Año de Facturación 0
